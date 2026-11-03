@@ -1,0 +1,7 @@
+# Private keys and environment secrets
+host.key
+*.key
+*.pem
+.env
+.env.*
+!.env.example
